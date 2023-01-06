@@ -49,7 +49,7 @@ Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImNoc
 
 PUT http://localhost:3000/districts/12/
 Content-Type: application/json
-Authorization: Bearer yJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImNocmlzdG9waGVyX3BoaWxsaXBzIiwiaWF0IjoxNjczMDAwOTc3fQ.K4Lze_4AdPVoJQhfJ7AzQwmrZIOeNR-JkHehnmlwhPk
+Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImNocmlzdG9waGVyX3BoaWxsaXBzIiwiaWF0IjoxNjczMDAwOTc3fQ.K4Lze_4AdPVoJQhfJ7AzQwmrZIOeNR-JkHehnmlwhPk
 
 {
   "districtName": "Nadia",
