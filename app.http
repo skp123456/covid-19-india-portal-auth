@@ -63,7 +63,7 @@ Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImNoc
 
 ###
 
-GET http://localhost:3000/states/15/stats/
+GET http://localhost:3000/states/12/stats/
 Authorization: Bearer eyJhbGciOiJIUzI1NiIsInR5cCI6IkpXVCJ9.eyJ1c2VybmFtZSI6ImNocmlzdG9waGVyX3BoaWxsaXBzIiwiaWF0IjoxNjczMDAwOTc3fQ.K4Lze_4AdPVoJQhfJ7AzQwmrZIOeNR-JkHehnmlwhPk
 
 
